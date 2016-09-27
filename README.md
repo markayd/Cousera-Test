@@ -1,1 +1,1 @@
-# Cousera-Test File and projects from Coursera Class
+# Coursera-Test File and projects from Coursera Class
